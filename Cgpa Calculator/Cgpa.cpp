@@ -11,7 +11,7 @@ main()
 	cgpa();
 }
 
-float sgpa()
+int sgpa()
 {
 	float s1, s2, s3, s4, s5, s6, cr1, cr2, cr3, cr4, cr5, cr6, n;
 	
